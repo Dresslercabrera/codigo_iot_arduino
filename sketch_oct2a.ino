@@ -2,8 +2,8 @@
 #include <HTTPClient.h>
 
 // =============== CONFIGURACIÓN WIFI ===============
-const char* ssid = "Vigilio-";
-const char* password = "240124vg468";
+const char* ssid = "wifi";
+const char* password = "240";
 
 // =============== CONFIGURACIÓN FIREBASE ===============
 const char* firebaseURL = "https://overr-2463c-default-rtdb.firebaseio.com/oficina.json";
